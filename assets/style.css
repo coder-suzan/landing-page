@@ -119,13 +119,13 @@ p{
 }
 
 .single-card{
-    transition: all 0.3s;
+    transition: transform 0.6s;
 }
 
 .single-card:hover{
     border: 1px solid #da5b00;
     cursor: pointer;
-   transform: scale(1.05);
+    transform: scale(1.5);
 }
 
 .pricing-div{
